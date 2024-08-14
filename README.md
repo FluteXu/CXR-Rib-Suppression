@@ -9,6 +9,7 @@ Background: Suppression of thoracic bone shadows on chest X-rays (CXRs) can impr
  
  ## 3. Data Open access.
  VinDr-RibCXR Dataset at https://drive.google.com/drive/folders/15X3Nrh61gioOZMeFNBih4Fc5ABoLocGH?usp=drive_link
+ 
  Paired rib suppressed CXRs are accessible at 
  
  ## Reference
