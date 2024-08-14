@@ -8,6 +8,7 @@ Background: Suppression of thoracic bone shadows on chest X-rays (CXRs) can impr
  compared with the physical model generated GTs, during testing with one prediction in <1 s. Downstream tasks, including lung nodule detection as well as common lung disease classification and localization, are used to provide task-specific evaluations of our rib suppression mechanism. We observed a 3.23% and 6.62% AUC increase, as well as 203 (1273 to 1070) and 385 (3029 to 2644) absolute false positive decreases for lung nodule detection and common lung disease localization, respectively. Conclusion: Through learning from image pairs generated from the physical model, the proposed SADXNet can make a robust sub-second prediction without losing fidelity. Quantitative outcomes from downstream validation further underpin the superiority of SADXNet and the training ML-based rib suppression approaches from the physical model yielded dataset.
  
  ## 3. Data Open access.
+ VinDr-RibCXR Dataset at https://drive.google.com/drive/folders/15X3Nrh61gioOZMeFNBih4Fc5ABoLocGH?usp=drive_link
  Paired rib suppressed CXRs are accessible at 
  
  ## Reference
