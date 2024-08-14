@@ -12,4 +12,14 @@ Background: Suppression of thoracic bone shadows on chest X-rays (CXRs) can impr
  
  ## Reference
  Pls cite our work as 
- 
+
+ @article{xu2023efficient,
+  title={An efficient and robust method for chest X-ray rib suppression that improves pulmonary abnormality diagnosis},
+  author={Xu, Di and Xu, Qifan and Nhieu, Kevin and Ruan, Dan and Sheng, Ke},
+  journal={Diagnostics},
+  volume={13},
+  number={9},
+  pages={1652},
+  year={2023},
+  publisher={MDPI}
+}
